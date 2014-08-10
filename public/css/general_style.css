@@ -1,0 +1,33 @@
+.hyper-title {
+    font-size: 7.5em;
+}
+
+.mainArticle {
+    margin-top: 2em;
+    text-align: justify;
+    font-size: 1.1em;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    line-height: 1.5em;
+}
+
+.intro {
+    height: 130px;
+}
+
+.intro .columns {
+
+    height: 100%;
+    overflow: hidden;
+}
+
+.info-wrapper {
+    background-color: #EEE;
+    padding: 1em;
+    height: 90%;
+    /*border-radius: 5px;*/
+
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
