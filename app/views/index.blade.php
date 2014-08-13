@@ -41,7 +41,7 @@
             Haz feliz a otra persona con los libros que ya no ocupas.
         </div>
         <div class="small-4 medium-4 large-4 columns">
-                Obten libros que necesites.
+                Obtén libros que necesites.
         </div>
         <div class="small-4 medium-4 large-4 columns">
                 Contribuye a mejorar la cultura de tu comunidad.
