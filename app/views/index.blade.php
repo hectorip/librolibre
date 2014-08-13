@@ -38,7 +38,7 @@
 <article class="text-left">
     <div class="row" style="text-align: center; border-top: solid 1px black; padding-top: 1em;">
         <div class="small-4 medium-4 large-4 columns">
-            Has feliz a otra persona con los libros que ya no ocupas.
+            Haz feliz a otra persona con los libros que ya no ocupas.
         </div>
         <div class="small-4 medium-4 large-4 columns">
                 Obten libros que necesites.
