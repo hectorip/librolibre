@@ -30,7 +30,7 @@
 
 <div class="row text-center">
     <div class="large-12 columns">
-        <h1>Libro Libre :: México</h1>
+        <img src = "img/logo.png" alt = "Logo Libro Libre" />
     </div>
 </div>
 
