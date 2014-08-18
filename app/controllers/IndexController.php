@@ -9,7 +9,7 @@ class IndexController extends \BaseController {
 	 */
 	public function index()
 	{
-		View::make('index');
+		return View::make('index');
 	}
 
 	public function sendMail($user)
