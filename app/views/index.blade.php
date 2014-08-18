@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Libro Libre :: México</title>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,200,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="foundation/css/foundation.css" />
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'>
