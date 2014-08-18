@@ -14,7 +14,7 @@ class IndexController extends \BaseController {
 
 	public function sendMail($user)
 	{
-		$mail = //geta mail;
+		$mail = ;//geta mail;
 		Mail::send('emails.welcome',[], function($message){
  			$message->to('hectorivanpatriciomoreno@gmail.com')->subject('Bienvenido a Libro Libre::México');
  		});
