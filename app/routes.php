@@ -1,6 +1,6 @@
 <?php
 Route::get('/','IndexController@index');
-Route::get('/sendMail','IndexController@mail');
+Route::get('/mail','IndexController@mail');
 
 // Route::get('/', function()
 // {
