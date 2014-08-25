@@ -49,8 +49,16 @@
         </div>
     </div>
     <div class = "row">
-     <div class="small-12columns">
-            <img src="img/librero.jpg" alt="Librero" style="margin-top: 2em"/>
+        <div class="small-12 columns" id="explanation-container">
+            <div id="explanation">
+                Libro Libre es una comunidad destinada a dar libros como regalo. El punto es que compartamos con las personas aquellos libros que ya no ocuparemos,
+                que tenemos porque pensamos que algún día iban a servir o que sólo nos fueron útiles en su momento.
+                </br>
+                Simplemente publica lo que tienes, nosotros nos encargaremos de de dar seguimiento a lo que has compartido y eso te permitirá acceder a distintos
+                beneficios, como otros libros que tal vez desees.
+                </br>
+                Recuerda, hay más felicidad en dar que en recibir.
+            </div>
         </div>
     </div>
 
@@ -73,7 +81,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-53624335-2', 'auto');
+  ga('create', '{{ $analytics_code }}', 'auto');
   ga('send', 'pageview');
 
 </script>

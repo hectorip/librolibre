@@ -154,7 +154,7 @@
         </td>
       </tr>
       <tr>
-        <td background="http://librolibre.com.mx/img/librero.jpg" bgcolor="#8b8284" valign="top" style="background: no-repeat url(http://librolibre.com.mx/img/librero.jpg); background-color: #8b8284; background-position: center !important;">
+        <td background="http://librolibre.com.mx/img/letters.jpg" bgcolor="#8b8284" valign="top" style="background: no-repeat url(http://librolibre.com.mx/img/letters.jpg); background-color: #8b8284; background-position: top !important;">
 
           <!--[if gte mso 9]>
           <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="mso-width-percent:1000;height:303px;">
@@ -170,8 +170,8 @@
                     <table cellspacing="0" cellpadding="0" width="100%">
                       <tr>
                         <td>
-                          <h1>Te avisaremos pronto.</h1><br>
-                          <h2>La fecha estimada de lanzamiento es el 1o de Octubre, pero nos mantendremos en contacto para avisarte de cualquier cambio.</h2>
+                          <h1><strong>Te avisaremos pronto.</strong></h1><br>
+                          <h2>La fecha estimada de lanzamiento es el <strong>1º de Octubre</strong>, pero nos mantendremos en contacto para avisarte de cualquier cambio.</h2>
                           <br>
                         </td>
                       </tr>

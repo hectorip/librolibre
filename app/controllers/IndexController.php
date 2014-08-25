@@ -9,7 +9,8 @@ class IndexController extends \BaseController {
 	 */
 	public function index()
 	{
-		return View::make('index');
+		$analytics_code = $_ENV['GOOGLE_ANALYTICS'];
+		return View::make('index')->with('analytics_code', $analytics_code);
 	}
 
 	public function mail()
