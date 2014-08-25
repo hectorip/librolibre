@@ -51,11 +51,13 @@
     <div class = "row">
         <div class="small-12 columns" id="explanation-container">
             <div id="explanation">
-                Libro Libre es una comunidad destinada a dar libros como regalo. El punto es que compartamos con las personas aquellos libros que ya no ocuparemos,
+                Libro Libre es una comunidad en México, destinada a dar libros como regalo. El punto es que compartamos con las personas aquellos libros que ya no ocuparemos,
                 que tenemos porque pensamos que algún día iban a servir o que sólo nos fueron útiles en su momento.
+                </br>
                 </br>
                 Simplemente publica lo que tienes, nosotros nos encargaremos de de dar seguimiento a lo que has compartido y eso te permitirá acceder a distintos
                 beneficios, como otros libros que tal vez desees.
+                </br>
                 </br>
                 Recuerda, hay más felicidad en dar que en recibir.
             </div>
