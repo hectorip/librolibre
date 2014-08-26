@@ -54,7 +54,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => 'hectorip@librolibre.com.mx', 'name' => 'HectorIP'),
+	'from' => array('address' => 'hectorip@librolibre.com.mx', 'name' => 'Héctor de Libro Libre'),
 
 	/*
 	|--------------------------------------------------------------------------

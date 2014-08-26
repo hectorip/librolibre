@@ -60,8 +60,20 @@
                 </br>
                 </br>
                 <strong>Recuerda, hay más felicidad en dar que en recibir.</strong>
-
+                </br>
                 Regístrate aquí para avisarte cuando estemos listos.
+                <div class="success" style="padding:0">{{{ $success }}}</div>
+                {{ Form::open(['url' => '/user/subscribe']) }}
+                    {{ Form::label('name','Nombre: ') }}
+                    {{ Form::input('text','name') }}
+                    <span class="error" style="padding:0">{{ $errors->first('name') }}</span>
+
+                    {{ Form::label('email','Mail: ') }}
+                    {{ Form::input('text','email') }}
+                    <span class="error" style="padding:0">{{ $errors->first('email') }}</span>
+
+                    {{ Form::submit('Suscribirme',["class" => 'button']) }}
+                {{ Form::close() }}
             </div>
         </div>
     </div>

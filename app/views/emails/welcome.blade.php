@@ -170,8 +170,8 @@
                     <table cellspacing="0" cellpadding="0" width="100%">
                       <tr>
                         <td>
-                          <h1><strong>Te avisaremos pronto.</strong></h1><br>
-                          <h2>La fecha estimada de lanzamiento es el <strong>1º de Octubre</strong>, pero nos mantendremos en contacto para avisarte de cualquier cambio.</h2>
+                          <h1><strong>Hola </strong> {{{ $name }}}</h1><br>
+                          <h2>Bienvenido a Libro Libre. <br/> La fecha estimada de lanzamiento es el <strong>1º de Octubre</strong>, pero nos mantendremos en contacto para avisarte de cualquier cambio.</h2>
                           <br>
                         </td>
                       </tr>
