@@ -59,7 +59,9 @@
                 beneficios, como otros libros que tal vez desees.
                 </br>
                 </br>
-                Recuerda, hay más felicidad en dar que en recibir.
+                <strong>Recuerda, hay más felicidad en dar que en recibir.</strong>
+
+                Regístrate aquí para avisarte cuando estemos listos.
             </div>
         </div>
     </div>
