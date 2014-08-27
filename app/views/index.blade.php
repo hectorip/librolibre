@@ -62,7 +62,7 @@
                 <strong>Recuerda, hay más felicidad en dar que en recibir.</strong>
                 </br>
                 Regístrate aquí para avisarte cuando estemos listos.
-                <div class="success" style="padding:0">{{{ $success }}}</div>
+                {{ Session::get('success_message')? '<div class="alert-box success radius">'.Session::get('success_message').'</div>' : '' }}
                 {{ Form::open(['url' => '/user/subscribe']) }}
                     {{ Form::label('name','Nombre: ') }}
                     {{ Form::input('text','name') }}

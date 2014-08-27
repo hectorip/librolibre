@@ -19,10 +19,10 @@ class UserController extends \BaseController {
 
 		User::create(Input::all());
 
-		Mail::send('emails.welcome',['name' => Input::get('name')], function($message){
- 			$message->to(Input::get('email'))->subject('Bienvenido a Libro Libre México');
- 		});
+		// Mail::send('emails.welcome',['name' => Input::get('name')], function($message){
+ 	// 		$message->to(Input::get('email'))->subject('Bienvenido a Libro Libre México');
+ 	// 	});
 		
-		return Redirect::back()->with(['success' => 'Has sido registrado. ¡Muchas Gracias!']);
+		return Redirect::to('/')->with('success_message','Has sido registrado. ¡Muchas Gracias!');
 	}
 }
