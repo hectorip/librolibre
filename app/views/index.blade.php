@@ -39,7 +39,7 @@
 <article class="text-left">
     <div class="row" style="text-align: center; border-top: solid 1px black; padding-top: 1em;">
         <div class="small-4 medium-4 large-4 columns">
-            Haz feliz a otra persona con los libros que ya no ocupas.
+            Haz feliz a otra persona con los libros que ya no necesitas.
         </div>
         <div class="small-4 medium-4 large-4 columns">
                 Obtén libros que necesites.
@@ -51,7 +51,7 @@
     <div class = "row">
         <div class="small-12 columns" id="explanation-container">
             <div id="explanation">
-                Libro Libre es una comunidad en México, destinada a dar libros como regalo. El punto es que compartamos con las personas aquellos libros que ya no ocuparemos,
+                Libro Libre es una comunidad en México, destinada a dar libros como regalo. El punto es que compartamos con las personas aquellos libros que ya no necesitaremos,
                 que tenemos porque pensamos que algún día iban a servir o que sólo nos fueron útiles en su momento.
                 </br>
                 </br>
