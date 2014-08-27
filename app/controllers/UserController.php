@@ -10,7 +10,7 @@ class UserController extends \BaseController {
 	 */
 	public function subscribe()
 	{
-		$validation = Validator::make(Input::all(),['name' => 'required', 'email' => 'required|email']);
+		$validation = Validator::make(Input::all(),['name' => 'required', 'email' => 'required|email|unique:users']);
 
 		if($validation->fails())
 		{
