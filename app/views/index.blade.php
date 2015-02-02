@@ -55,7 +55,7 @@
                 que tenemos porque pensamos que algún día iban a servir o que sólo nos fueron útiles en su momento.
                 </br>
                 </br>
-                Simplemente publica lo que tienes, nosotros nos encargaremos de de dar seguimiento a lo que has compartido y eso te permitirá acceder a distintos
+                Simplemente publica lo que tienes, nosotros nos encargaremos de dar seguimiento a lo que has compartido y eso te permitirá acceder a distintos
                 beneficios, como otros libros que tal vez desees.
                 </br>
                 </br>
